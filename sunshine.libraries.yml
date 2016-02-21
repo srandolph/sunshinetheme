@@ -1,0 +1,6 @@
+sunshine.libraries.yml
+global-styling:
+  version: VERSION
+  css:
+    theme:
+      css/style.css: {}
