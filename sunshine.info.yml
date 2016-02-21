@@ -1,0 +1,10 @@
+name: sunshine
+type: theme
+description: Awesome Sunshine theme
+package: Other
+core: 8.x
+libraries:
+  - sunshine/global-styling
+
+base theme: bartik
+
